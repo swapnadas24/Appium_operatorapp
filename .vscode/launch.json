@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OperatorappDao",
+            "request": "launch",
+            "mainClass": "com.commutec.dao.OperatorappDao",
+            "projectName": "commutec"
+        }
+    ]
+}
